@@ -1,0 +1,38 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "private",
+  "signedByOrg": "ondrejknebl",
+  "signedByOrgName": "loravsbcz",
+  "rootUrls": [
+    "http://localhost:3000/"
+  ],
+  "plugin": "loravsbcz-ttsdownlinksender-panel",
+  "version": "1.0.0",
+  "time": 1680642736424,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "CHANGELOG.md": "df0e0e0b02dcfb14d1fbd9fc85b08615f174179afbdbd2d4d50b2f6effb37652",
+    "README.md": "024c76d2cdbb14a63430d8dba919353ee71ad66cc63c528b96f53d644a374361",
+    "plugin.json": "1da9c4b9b7a7ed68768a32925360ad992d311e6376bc4e05a7e3af1a92dddd93",
+    "LICENSE": "c5accbbd8546e94c34aed24afe689a617627d18eed5a6c48277e48db57c23851",
+    "module.js": "1d1fc086f556c8e542ef054dc62b1b964aac47b4ce969c63f750fad28b44847a",
+    "module.js.map": "51f78288da6a41846c6d624b878e7e13dcf2ff3773531cbb2b71b4e6be2fd77f",
+    "module.js.LICENSE.txt": "b9ab881eb06d079d3d451180fe1b9fb27c46aa76fed6ee86f34b284b8f8b9cd1",
+    "img/logo.svg": "1defc6f7e585c67657bcfd8fddc599ee7dfa82f8674413f49fa274c2cd453ec6"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.10
+Comment: https://openpgpjs.org
+
+wrgEARMKAAYFAmQskrAAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm51bUAgkBx/+37LCQGvdlha8Zal3wz5ELdZUza9vG89hxhxuK1xb6Ies+
+x/T6o0+/GCGQWUFOrhgWMttmT7l23gQV/H5F+nsCCLOe8E1AfeT9sgUdSi95
+MgFmJp4EAYDwhhzqrM0QEHeLzCRegnYHEg2iRYk2S6bGFc99YDyoY8gtAMRd
+lZbdagw+
+=fZX4
+-----END PGP SIGNATURE-----
